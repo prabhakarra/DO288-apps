@@ -35,7 +35,6 @@ pipeline {
  	}
 
 	}
-        }
 
         // TODO: ADD A STAGE THAT SAYS HELLO
 
